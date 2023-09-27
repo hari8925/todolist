@@ -1,0 +1,6 @@
+.bg-image {
+  background-image: url("https://cdn.pixabay.com/photo/2020/05/30/09/53/todo-lists-5238324_640.jpg"); /* Replace 'your-image-url.jpg' with the actual path or URL to your image */
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
